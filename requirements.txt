@@ -1,6 +1,4 @@
-# System-level packages (apt packages)
-# Leave empty for Python-only apps
-# Examples of system packages you might need:
-# build-essential
-# libssl-dev
-# libffi-dev
+streamlit>=1.32.0
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
