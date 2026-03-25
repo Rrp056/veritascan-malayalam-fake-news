@@ -1,6 +1,0 @@
-# System-level packages (apt packages)
-# Leave empty for Python-only apps
-# Examples of system packages you might need:
-# build-essential
-# libssl-dev
-# libffi-dev
